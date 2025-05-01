@@ -3,38 +3,38 @@ guid: ba034b790ae171b4382174a078551f5a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2990662804147286086
-    second: Cha_Idle_Atlas_0
+      213: 2784793231766541145
+    second: Idle_Atlas_0
   - first:
-      213: 5236940083555264477
-    second: Cha_Idle_Atlas_1
+      213: 7721473308185230593
+    second: Idle_Atlas_1
   - first:
-      213: 6528347047214397397
-    second: Cha_Idle_Atlas_2
+      213: -4103592120477949695
+    second: Idle_Atlas_2
   - first:
-      213: -5238603798772928691
-    second: Cha_Idle_Atlas_3
+      213: -2007373380288250985
+    second: Idle_Atlas_3
   - first:
-      213: -4846612492256204795
-    second: Cha_Idle_Atlas_4
+      213: -8306321950109456011
+    second: Idle_Atlas_4
   - first:
-      213: -3737091865415046673
-    second: Cha_Idle_Atlas_5
+      213: -3015920945595564955
+    second: Idle_Atlas_5
   - first:
-      213: 5290968870870877926
-    second: Cha_Idle_Atlas_6
+      213: -5524172414952022529
+    second: Idle_Atlas_6
   - first:
-      213: -4620524350302045055
-    second: Cha_Idle_Atlas_7
+      213: -7970902469885415401
+    second: Idle_Atlas_7
   - first:
-      213: 8960870128339494705
-    second: Cha_Idle_Atlas_8
+      213: 680126370806556922
+    second: Idle_Atlas_8
   - first:
-      213: 9171989204567597896
-    second: Cha_Idle_Atlas_9
+      213: -7080658838057226008
+    second: Idle_Atlas_9
   - first:
-      213: 3403471150166538006
-    second: Cha_Idle_Atlas_10
+      213: 6476980519507814346
+    second: Idle_Atlas_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 150
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -105,7 +105,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -143,13 +143,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_0
+      name: Idle_Atlas_0
       rect:
         serializedVersion: 2
         x: 50
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: abfc3db56080f76d0800000000000000
-      internalID: -2990662804147286086
+      spriteID: 9535b5890b295a620800000000000000
+      internalID: 2784793231766541145
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_1
+      name: Idle_Atlas_1
       rect:
         serializedVersion: 2
         x: 200
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd7e05e62495da840800000000000000
-      internalID: 5236940083555264477
+      spriteID: 10d7a0d401f282b60800000000000000
+      internalID: 7721473308185230593
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_2
+      name: Idle_Atlas_2
       rect:
         serializedVersion: 2
         x: 350
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d73faffc09599a50800000000000000
-      internalID: 6528347047214397397
+      spriteID: 101e1db45bc1d07c0800000000000000
+      internalID: -4103592120477949695
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_3
+      name: Idle_Atlas_3
       rect:
         serializedVersion: 2
         x: 500
-        y: 47
+        y: 0
         width: 41
-        height: 74
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -224,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d4fa02fa99dbc47b0800000000000000
-      internalID: -5238603798772928691
+      spriteID: 79bf750db806424e0800000000000000
+      internalID: -2007373380288250985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_4
+      name: Idle_Atlas_4
       rect:
         serializedVersion: 2
         x: 650
-        y: 47
+        y: 0
         width: 41
-        height: 75
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5082913ed9f5dbcb0800000000000000
-      internalID: -4846612492256204795
+      spriteID: 57922b5f1340abc80800000000000000
+      internalID: -8306321950109456011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_5
+      name: Idle_Atlas_5
       rect:
         serializedVersion: 2
         x: 800
-        y: 47
+        y: 0
         width: 41
-        height: 75
+        height: 74
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe92fe49fbe232cc0800000000000000
-      internalID: -3737091865415046673
+      spriteID: 56cbd1701eb4526d0800000000000000
+      internalID: -3015920945595564955
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_6
+      name: Idle_Atlas_6
       rect:
         serializedVersion: 2
         x: 950
-        y: 47
+        y: 0
         width: 41
-        height: 74
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e688e1c72c4d6940800000000000000
-      internalID: 5290968870870877926
+      spriteID: ffdd5c8f4723653b0800000000000000
+      internalID: -5524172414952022529
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_7
+      name: Idle_Atlas_7
       rect:
         serializedVersion: 2
         x: 1100
-        y: 47
+        y: 0
         width: 41
-        height: 74
+        height: 73
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,20 +312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 18c3430859990efb0800000000000000
-      internalID: -4620524350302045055
+      spriteID: 710323f6f6aa16190800000000000000
+      internalID: -7970902469885415401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_8
+      name: Idle_Atlas_8
       rect:
         serializedVersion: 2
         x: 1250
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -334,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 137a51ea7e76b5c70800000000000000
-      internalID: 8960870128339494705
+      spriteID: af8ec4ea45b407900800000000000000
+      internalID: 680126370806556922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_9
+      name: Idle_Atlas_9
       rect:
         serializedVersion: 2
         x: 1400
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -356,20 +356,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84328f51693794f70800000000000000
-      internalID: 9171989204567597896
+      spriteID: 8e07edd3d427cbd90800000000000000
+      internalID: -7080658838057226008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Idle_Atlas_10
+      name: Idle_Atlas_10
       rect:
         serializedVersion: 2
         x: 1550
-        y: 47
+        y: 0
         width: 41
-        height: 73
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,8 +378,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61777fc8afe8b3f20800000000000000
-      internalID: 3403471150166538006
+      spriteID: ac7636a477bd2e950800000000000000
+      internalID: 6476980519507814346
       vertices: []
       indices: 
       edges: []
@@ -397,18 +397,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Cha_Idle_Atlas_0: -2990662804147286086
-      Cha_Idle_Atlas_1: 5236940083555264477
-      Cha_Idle_Atlas_10: 3403471150166538006
-      Cha_Idle_Atlas_2: 6528347047214397397
-      Cha_Idle_Atlas_3: -5238603798772928691
-      Cha_Idle_Atlas_4: -4846612492256204795
-      Cha_Idle_Atlas_5: -3737091865415046673
-      Cha_Idle_Atlas_6: 5290968870870877926
-      Cha_Idle_Atlas_7: -4620524350302045055
-      Cha_Idle_Atlas_8: 8960870128339494705
-      Cha_Idle_Atlas_9: 9171989204567597896
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
