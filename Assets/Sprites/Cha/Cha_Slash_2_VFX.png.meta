@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: be0ad88af0542fb42a441a9a75a3c230
+guid: e0c9bd8e121a28e49bc1dc3991b32376
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1979588241892740198
-    second: Cha_Run_0
+      213: 4407940744266373620
+    second: Cha_Slash_2_VFX_0
   - first:
-      213: -5765974385871439864
-    second: Cha_Run_1
+      213: -6221519401513038765
+    second: Cha_Slash_2_VFX_1
   - first:
-      213: 3417925474238535361
-    second: Cha_Run_2
+      213: 924501736163781047
+    second: Cha_Slash_2_VFX_2
   - first:
-      213: -507761469805310059
-    second: Cha_Run_3
+      213: -946955449381087936
+    second: Cha_Slash_2_VFX_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -135,13 +135,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Cha_Run_2
+      name: Cha_Slash_2_VFX_0
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 32
-        height: 32
+        x: 23
+        y: 7
+        width: 101
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1c61fb02c19ee6f20800000000000000
-      internalID: 3417925474238535361
+      spriteID: 4f9d7fca0c62c2d30800000000000000
+      internalID: 4407940744266373620
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Run_3
+      name: Cha_Slash_2_VFX_1
       rect:
         serializedVersion: 2
-        x: 96
-        y: 0
-        width: 32
-        height: 32
+        x: 135
+        y: 19
+        width: 31
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,52 +172,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 59fcf9922a114f8f0800000000000000
-      internalID: -507761469805310059
+      spriteID: 35c4d9d3119b8a9a0800000000000000
+      internalID: -6221519401513038765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Run_0
+      name: Cha_Slash_2_VFX_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
+        x: 165
+        y: 31
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c5ea15ae7cfac9549a5c9f0593cfceca
-      internalID: 1979588241892740198
+      spriteID: 7b9264a4e6d74dc00800000000000000
+      internalID: 924501736163781047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cha_Run_1
+      name: Cha_Slash_2_VFX_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 166
+        y: 7
+        width: 103
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9ef92fc91ba1360459b0e65e666578b1
-      internalID: -5765974385871439864
+      spriteID: 0451585390dbbd2f0800000000000000
+      internalID: -946955449381087936
       vertices: []
       indices: 
       edges: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 44dfb05fbe60ee743bca4cca5326597e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -235,11 +235,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Cha_Run_0: 1979588241892740198
-      Cha_Run_1: -5765974385871439864
-      Cha_Run_2: 3417925474238535361
-      Cha_Run_3: -507761469805310059
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
