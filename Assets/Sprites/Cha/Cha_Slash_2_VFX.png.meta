@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 150
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,10 +138,10 @@ TextureImporter:
       name: Cha_Slash_2_VFX_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 7
-        width: 101
-        height: 44
+        x: 0
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,10 +160,10 @@ TextureImporter:
       name: Cha_Slash_2_VFX_1
       rect:
         serializedVersion: 2
-        x: 135
-        y: 19
-        width: 31
-        height: 31
+        x: 150
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Cha_Slash_2_VFX_2
       rect:
         serializedVersion: 2
-        x: 165
-        y: 31
-        width: 8
-        height: 9
+        x: 300
+        y: 0
+        width: 150
+        height: 150
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,33 +200,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Cha_Slash_2_VFX_3
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 7
-        width: 103
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0451585390dbbd2f0800000000000000
-      internalID: -946955449381087936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 37b0f9dcf778b7c4d9396aef648c9ef1
     internalID: 0
     vertices: []
     indices: 
@@ -235,7 +213,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cha_Slash_2_VFX_0: 4407940744266373620
+      Cha_Slash_2_VFX_1: -6221519401513038765
+      Cha_Slash_2_VFX_2: 924501736163781047
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
