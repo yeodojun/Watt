@@ -21,7 +21,9 @@ public class Player : MonoBehaviour
     public GameObject bladeAttack1;
     public GameObject bladeAttack2;
     public GameObject upBladeAttack;
-    private Vector2[] originalPoints;
+    private Vector2[] originalPoints1;
+    private Vector2[] originalPoints2;
+    private Vector2[] originalPoints3;
 
     void Awake()
     {
@@ -32,17 +34,17 @@ public class Player : MonoBehaviour
         var poly1 = bladeAttack1.GetComponent<PolygonCollider2D>();
         if (poly1 != null)
         {
-            originalPoints = poly1.GetPath(0);
+            originalPoints1 = poly1.GetPath(0);
         }
         var poly2 = bladeAttack2.GetComponent<PolygonCollider2D>();
         if (poly2 != null)
         {
-            originalPoints = poly2.GetPath(0);
+            originalPoints2 = poly2.GetPath(0);
         }
         var poly3 = upBladeAttack.GetComponent<PolygonCollider2D>();
         if (poly3 != null)
         {
-            originalPoints = poly3.GetPath(0);
+            originalPoints3 = poly3.GetPath(0);
         }
     }
 
@@ -138,12 +140,12 @@ public class Player : MonoBehaviour
             bladeRenderer.flipX = sprite.flipX;
 
         var poly1 = bladeAttack1.GetComponent<PolygonCollider2D>();
-        if (poly1 != null && originalPoints != null)
+        if (poly1 != null && originalPoints1 != null)
         {
-            Vector2[] flippedPoints = new Vector2[originalPoints.Length];
-            for (int i = 0; i < originalPoints.Length; i++)
+            Vector2[] flippedPoints = new Vector2[originalPoints1.Length];
+            for (int i = 0; i < originalPoints1.Length; i++)
             {
-                Vector2 p = originalPoints[i];
+                Vector2 p = originalPoints1[i];
                 p.x *= sprite.flipX ? -1 : 1;
                 flippedPoints[i] = p;
             }
@@ -164,12 +166,12 @@ public class Player : MonoBehaviour
             bladeRenderer.flipX = sprite.flipX;
 
         var poly2 = bladeAttack2.GetComponent<PolygonCollider2D>();
-        if (poly2 != null && originalPoints != null)
+        if (poly2 != null && originalPoints2 != null)
         {
-            Vector2[] flippedPoints = new Vector2[originalPoints.Length];
-            for (int i = 0; i < originalPoints.Length; i++)
+            Vector2[] flippedPoints = new Vector2[originalPoints2.Length];
+            for (int i = 0; i < originalPoints2.Length; i++)
             {
-                Vector2 p = originalPoints[i];
+                Vector2 p = originalPoints2[i];
                 p.x *= sprite.flipX ? -1 : 1;
                 flippedPoints[i] = p;
             }
@@ -191,12 +193,12 @@ public class Player : MonoBehaviour
             bladeRenderer.flipX = sprite.flipX;
 
         var poly3 = upBladeAttack.GetComponent<PolygonCollider2D>();
-        if (poly3 != null && originalPoints != null)
+        if (poly3 != null && originalPoints3 != null)
         {
-            Vector2[] flippedPoints = new Vector2[originalPoints.Length];
-            for (int i = 0; i < originalPoints.Length; i++)
+            Vector2[] flippedPoints = new Vector2[originalPoints3.Length];
+            for (int i = 0; i < originalPoints3.Length; i++)
             {
-                Vector2 p = originalPoints[i];
+                Vector2 p = originalPoints3[i];
                 p.x *= sprite.flipX ? -1 : 1;
                 flippedPoints[i] = p;
             }
