@@ -15,6 +15,8 @@ public class Player : MonoBehaviour
 
     private float horizontalInput;
     private bool isGrounded = false;
+    private bool wasFalling = false;
+    private bool isUp = false;
     private bool isAttack1 = false;
     public GameObject bladeAttack1;
     public GameObject bladeAttack2;
@@ -46,6 +48,8 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        animator.SetBool("isGrounded", isGrounded);
+        animator.SetBool("isUp", isUp);
         if (Input.GetKey(KeyCode.RightArrow))
             horizontalInput = 1f;
         else if (Input.GetKey(KeyCode.LeftArrow))
@@ -78,21 +82,26 @@ public class Player : MonoBehaviour
             animator.SetTrigger("Jump");
             isGrounded = false;
         }
+        if (rb.linearVelocity.y > 0f)
+        {
+            wasFalling = false;
+            isUp = true;
+            animator.SetBool("isUp", true);
+        }
 
-        if (rb.linearVelocity.y < 0)
+        if (!isGrounded && !wasFalling && rb.linearVelocity.y < -0.1f)
         {
-            rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (fallMultiplier - 1) * Time.deltaTime;
-        }
-        else if (rb.linearVelocity.y > 0 && !Input.GetKey(KeyCode.Space))
-        {
-            rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
-        }
-        if (!isGrounded && rb.linearVelocity.y < -1f)
-        {
+            isUp = false;
+            animator.SetBool("isUp", false);
             animator.SetTrigger("JumpDown");
+            animator.ResetTrigger("JumpLanding");
+            wasFalling = true;
+            
         }
         if (isGrounded)
         {
+            wasFalling = false;
+            animator.ResetTrigger("JumpDown");
             animator.SetTrigger("JumpLanding");
             animator.SetTrigger("JumpEnd");
         }
@@ -207,7 +216,20 @@ public class Player : MonoBehaviour
 
     void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(horizontalInput * speed, rb.linearVelocity.y);
+        Vector2 velocity = rb.linearVelocity;
+
+        velocity.x = horizontalInput * speed;
+
+        if (velocity.y < 0)
+        {
+            velocity.y += Physics2D.gravity.y * (fallMultiplier - 1) * Time.fixedDeltaTime;
+        }
+        else if (velocity.y > 0 && !Input.GetKey(KeyCode.Space))
+        {
+            velocity.y += Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.fixedDeltaTime;
+        }
+
+        rb.linearVelocity = velocity;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -215,6 +237,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+            animator.SetBool("isGrounded", true);
         }
     }
     void OnCollisionExit2D(Collision2D collision)
@@ -222,6 +245,7 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = false;
+            animator.SetBool("isGrounded", false);
         }
     }
 }
