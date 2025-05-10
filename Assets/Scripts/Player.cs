@@ -25,6 +25,9 @@ public class Player : MonoBehaviour
     private Vector2[] originalPoints2;
     private Vector2[] originalPoints3;
 
+    public LayerMask groundLayer;
+    public Vector2 groundCheckSize = new Vector2(0.8f, 0.1f);
+
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -50,7 +53,6 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        animator.SetBool("isGrounded", isGrounded);
         animator.SetBool("isUp", isUp);
         if (Input.GetKey(KeyCode.RightArrow))
             horizontalInput = 1f;
@@ -95,10 +97,10 @@ public class Player : MonoBehaviour
         {
             isUp = false;
             animator.SetBool("isUp", false);
+            animator.ResetTrigger("Jump");
             animator.SetTrigger("JumpDown");
             animator.ResetTrigger("JumpLanding");
             wasFalling = true;
-            
         }
         if (isGrounded)
         {
@@ -110,6 +112,7 @@ public class Player : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Z))
         {
+
             if (Input.GetKey(KeyCode.UpArrow))
             {
                 animator.SetTrigger("UpAttack");
@@ -232,22 +235,9 @@ public class Player : MonoBehaviour
         }
 
         rb.linearVelocity = velocity;
-    }
 
-    void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = true;
-            animator.SetBool("isGrounded", true);
-        }
-    }
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isGrounded = false;
-            animator.SetBool("isGrounded", false);
-        }
+        Vector2 origin = (Vector2)transform.position + Vector2.down * 0.5f;
+        isGrounded = Physics2D.BoxCast(origin, groundCheckSize, 0f, Vector2.down, 0.05f, groundLayer);
+        animator.SetBool("isGrounded", isGrounded);
     }
 }

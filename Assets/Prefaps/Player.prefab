@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 7647296851003739669}
   - component: {fileID: 4064167116377753135}
   - component: {fileID: 8139532026086895469}
-  - component: {fileID: 2461417273469660140}
-  m_Layer: 0
+  - component: {fileID: 3858478745897594451}
+  m_Layer: 3
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -107,12 +107,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  jumpForce: 10
+  jumpForce: 8
   fallMultiplier: 2.5
   lowJumpMultiplier: 2
   bladeAttack1: {fileID: 4622357755399799859}
   bladeAttack2: {fileID: 7415085054554457464}
   upBladeAttack: {fileID: 3625263098615420123}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  groundCheckSize: {x: 0.51, y: 0.4}
 --- !u!95 &4064167116377753135
 Animator:
   serializedVersion: 7
@@ -162,8 +166,8 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!70 &2461417273469660140
-CapsuleCollider2D:
+--- !u!61 &3858478745897594451
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -196,9 +200,18 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.008640575}
-  m_Size: {x: 0.53125, y: 0.8922812}
-  m_Direction: 0
+  m_Offset: {x: -0.0019621328, y: -0.017391741}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.32023925, y: 0.8005825}
+  m_EdgeRadius: 0
 --- !u!1 &3625263098615420123
 GameObject:
   m_ObjectHideFlags: 0
@@ -212,7 +225,7 @@ GameObject:
   - component: {fileID: 8229461807745414633}
   - component: {fileID: 6230695321619713529}
   - component: {fileID: 8208374548990300800}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: UpBladeAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -415,7 +428,7 @@ GameObject:
   - component: {fileID: 39285611011018461}
   - component: {fileID: 4858566052760867396}
   - component: {fileID: 1176180823995562123}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BladeAttack1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -621,7 +634,7 @@ GameObject:
   - component: {fileID: 3063922207915977481}
   - component: {fileID: 3781677292748163159}
   - component: {fileID: 3063579541181065318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BladeAttack2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
