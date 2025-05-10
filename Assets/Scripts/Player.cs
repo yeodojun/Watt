@@ -1,3 +1,5 @@
+using System;
+using UnityEditor.Rendering.LookDev;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -56,25 +58,25 @@ public class Player : MonoBehaviour
         else if (horizontalInput > 0)
             sprite.flipX = false;
 
-        if (horizontalInput != 0 && isGrounded)
+        if (isGrounded)
         {
-            animator.ResetTrigger("End");
-            animator.SetTrigger("Run");
-        }
-        else if (horizontalInput == 0 && isGrounded)
-        {
-            animator.ResetTrigger("Run");
-            animator.SetTrigger("End");
+            if (horizontalInput != 0)
+            {
+                animator.ResetTrigger("End");
+                animator.SetTrigger("Run");
+            }
+            else
+            {
+                animator.ResetTrigger("Run");
+                animator.SetTrigger("End");
+            }
         }
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            isGrounded = false;
-
-            animator.ResetTrigger("End");
-            animator.ResetTrigger("Run");
             animator.SetTrigger("Jump");
+            isGrounded = false;
         }
 
         if (rb.linearVelocity.y < 0)
@@ -85,16 +87,16 @@ public class Player : MonoBehaviour
         {
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
-        if (!isGrounded)
+        if (!isGrounded && rb.linearVelocity.y < -1f)
         {
-            animator.ResetTrigger("Run");
-            animator.ResetTrigger("End");
-            animator.SetTrigger("Jump");
+            animator.SetTrigger("JumpDown");
         }
         if (isGrounded)
         {
+            animator.SetTrigger("JumpLanding");
             animator.SetTrigger("JumpEnd");
         }
+
         if (Input.GetKeyDown(KeyCode.Z))
         {
             if (Input.GetKey(KeyCode.UpArrow))
@@ -213,6 +215,13 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             isGrounded = true;
+        }
+    }
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            isGrounded = false;
         }
     }
 }
