@@ -16,6 +16,7 @@ public class Player : MonoBehaviour
     private bool isAttack1 = false;
     public GameObject bladeAttack1;
     public GameObject bladeAttack2;
+    public GameObject upBladeAttack;
     private Vector2[] originalPoints;
 
     void Awake()
@@ -33,6 +34,11 @@ public class Player : MonoBehaviour
         if (poly2 != null)
         {
             originalPoints = poly2.GetPath(0);
+        }
+        var poly3 = upBladeAttack.GetComponent<PolygonCollider2D>();
+        if (poly3 != null)
+        {
+            originalPoints = poly3.GetPath(0);
         }
     }
 
@@ -91,17 +97,25 @@ public class Player : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.Z))
         {
-            if (isAttack1 == false)
+            if (Input.GetKey(KeyCode.UpArrow))
             {
-                animator.SetTrigger("Attack1");
-                ActivateBladeAttack1();
-                isAttack1 = true;
+                animator.SetTrigger("UpAttack");
+                ActivateUpBladeAttack();
             }
-            else if (isAttack1 == true)
+            else
             {
-                animator.SetTrigger("Attack2");
-                ActivateBladeAttack2();
-                isAttack1 = false;
+                if (isAttack1 == false)
+                {
+                    animator.SetTrigger("Attack1");
+                    ActivateBladeAttack1();
+                    isAttack1 = true;
+                }
+                else if (isAttack1 == true)
+                {
+                    animator.SetTrigger("Attack2");
+                    ActivateBladeAttack2();
+                    isAttack1 = false;
+                }
             }
         }
     }
@@ -155,6 +169,33 @@ public class Player : MonoBehaviour
         if (bladeAnimator2 != null)
         {
             bladeAnimator2.Play("BladeAttack2", 0, 0f);
+        }
+    }
+
+    void ActivateUpBladeAttack()
+    {
+        upBladeAttack.SetActive(true);
+        var bladeRenderer = upBladeAttack.GetComponent<SpriteRenderer>();
+        if (bladeRenderer != null)
+            bladeRenderer.flipX = sprite.flipX;
+
+        var poly3 = upBladeAttack.GetComponent<PolygonCollider2D>();
+        if (poly3 != null && originalPoints != null)
+        {
+            Vector2[] flippedPoints = new Vector2[originalPoints.Length];
+            for (int i = 0; i < originalPoints.Length; i++)
+            {
+                Vector2 p = originalPoints[i];
+                p.x *= sprite.flipX ? -1 : 1;
+                flippedPoints[i] = p;
+            }
+            poly3.SetPath(0, flippedPoints);
+        }
+
+        Animator UpBladeAttack = upBladeAttack.GetComponent<Animator>();
+        if (UpBladeAttack != null)
+        {
+            UpBladeAttack.Play("UpBladeAttack", 0, 0f);
         }
     }
     public void OnAttackEnd()
