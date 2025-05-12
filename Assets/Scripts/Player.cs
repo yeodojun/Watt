@@ -21,9 +21,11 @@ public class Player : MonoBehaviour
     public GameObject bladeAttack1;
     public GameObject bladeAttack2;
     public GameObject upBladeAttack;
+    public GameObject downBladeAttack;
     private Vector2[] originalPoints1;
     private Vector2[] originalPoints2;
     private Vector2[] originalPoints3;
+    private Vector2[] originalPoints4;
 
     public LayerMask groundLayer;
     public Vector2 groundCheckSize = new Vector2(0.8f, 0.1f);
@@ -48,6 +50,11 @@ public class Player : MonoBehaviour
         if (poly3 != null)
         {
             originalPoints3 = poly3.GetPath(0);
+        }
+        var poly4 = downBladeAttack.GetComponent<PolygonCollider2D>();
+        if (poly4 != null)
+        {
+            originalPoints4 = poly4.GetPath(0);
         }
     }
 
@@ -117,6 +124,11 @@ public class Player : MonoBehaviour
             {
                 animator.SetTrigger("UpAttack");
                 ActivateUpBladeAttack();
+            }
+            else if (!isGrounded && Input.GetKey(KeyCode.DownArrow))
+            {
+                animator.SetTrigger("DownAttack");
+                ActivateDownBladeAttack();
             }
             else
             {
@@ -212,6 +224,33 @@ public class Player : MonoBehaviour
         if (UpBladeAttack != null)
         {
             UpBladeAttack.Play("UpBladeAttack", 0, 0f);
+        }
+    }
+
+    void ActivateDownBladeAttack() 
+    {
+        downBladeAttack.SetActive(true);
+        var bladeRenderer = downBladeAttack.GetComponent<SpriteRenderer>();
+        if (bladeRenderer != null)
+            bladeRenderer.flipX = sprite.flipX;
+
+        var poly4 = upBladeAttack.GetComponent<PolygonCollider2D>();
+        if (poly4 != null && originalPoints3 != null)
+        {
+            Vector2[] flippedPoints = new Vector2[originalPoints3.Length];
+            for (int i = 0; i < originalPoints3.Length; i++)
+            {
+                Vector2 p = originalPoints3[i];
+                p.x *= sprite.flipX ? -1 : 1;
+                flippedPoints[i] = p;
+            }
+            poly4.SetPath(0, flippedPoints);
+        }
+
+        Animator DownBladeAttack = downBladeAttack.GetComponent<Animator>();
+        if (DownBladeAttack != null)
+        {
+            DownBladeAttack.Play("DownBladeAttack", 0, 0f);
         }
     }
     public void OnAttackEnd()
