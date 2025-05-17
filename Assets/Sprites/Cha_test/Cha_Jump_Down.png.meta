@@ -70,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 176
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -142,6 +142,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -149,10 +162,10 @@ TextureImporter:
       name: Cha_Jump_Down_0
       rect:
         serializedVersion: 2
-        x: 67
-        y: 200
-        width: 50
-        height: 65
+        x: 0
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,10 +184,10 @@ TextureImporter:
       name: Cha_Jump_Down_1
       rect:
         serializedVersion: 2
-        x: 245
-        y: 200
-        width: 49
-        height: 65
+        x: 176
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,10 +206,10 @@ TextureImporter:
       name: Cha_Jump_Down_2
       rect:
         serializedVersion: 2
-        x: 424
-        y: 199
-        width: 49
-        height: 66
+        x: 352
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,10 +228,10 @@ TextureImporter:
       name: Cha_Jump_Down_3
       rect:
         serializedVersion: 2
-        x: 602
-        y: 197
-        width: 51
-        height: 69
+        x: 528
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,10 +250,10 @@ TextureImporter:
       name: Cha_Jump_Down_4
       rect:
         serializedVersion: 2
-        x: 779
-        y: 194
-        width: 54
-        height: 73
+        x: 704
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,10 +272,10 @@ TextureImporter:
       name: Cha_Jump_Down_5
       rect:
         serializedVersion: 2
-        x: 956
-        y: 190
-        width: 57
-        height: 79
+        x: 880
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +294,10 @@ TextureImporter:
       name: Cha_Jump_Down_6
       rect:
         serializedVersion: 2
-        x: 1133
-        y: 188
-        width: 57
-        height: 82
+        x: 1056
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -303,10 +316,10 @@ TextureImporter:
       name: Cha_Jump_Down_7
       rect:
         serializedVersion: 2
-        x: 1310
-        y: 187
-        width: 56
-        height: 84
+        x: 1232
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,10 +338,10 @@ TextureImporter:
       name: Cha_Jump_Down_8
       rect:
         serializedVersion: 2
-        x: 1483
-        y: 187
-        width: 58
-        height: 85
+        x: 1408
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,10 +360,10 @@ TextureImporter:
       name: Cha_Jump_Down_9
       rect:
         serializedVersion: 2
-        x: 1659
-        y: 187
-        width: 58
-        height: 85
+        x: 1584
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,10 +382,10 @@ TextureImporter:
       name: Cha_Jump_Down_10
       rect:
         serializedVersion: 2
-        x: 75
-        y: 11
-        width: 53
-        height: 86
+        x: 0
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -387,33 +400,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Cha_Jump_Down_11
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 0
-        width: 1585
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c9b912d35ed67080800000000000000
-      internalID: -9189913538014365242
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fabb7b4feba2e9641bccf84183dc2ff5
     internalID: 0
     vertices: []
     indices: 
@@ -422,7 +413,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cha_Jump_Down_0: 8231896129532670456
+      Cha_Jump_Down_1: -750564626890036089
+      Cha_Jump_Down_10: -2603458022714493042
+      Cha_Jump_Down_11: -9189913538014365242
+      Cha_Jump_Down_12: -1143717992
+      Cha_Jump_Down_13: 1284590034
+      Cha_Jump_Down_14: -1011603804
+      Cha_Jump_Down_15: -2014907529
+      Cha_Jump_Down_16: 582136112
+      Cha_Jump_Down_17: 1472317309
+      Cha_Jump_Down_18: 944645131
+      Cha_Jump_Down_19: -2087377953
+      Cha_Jump_Down_2: 7053066231340942556
+      Cha_Jump_Down_3: -4708357309213482812
+      Cha_Jump_Down_4: 7905910486548173444
+      Cha_Jump_Down_5: 5746075281337094356
+      Cha_Jump_Down_6: 5816937390288090468
+      Cha_Jump_Down_7: -3925424672887879354
+      Cha_Jump_Down_8: -834562315466940068
+      Cha_Jump_Down_9: 8380814648071385950
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

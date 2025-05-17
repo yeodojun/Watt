@@ -241,7 +241,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -255,7 +255,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 176
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -279,7 +279,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -313,6 +313,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -320,10 +333,10 @@ TextureImporter:
       name: Cha_Slash_1_0
       rect:
         serializedVersion: 2
-        x: 71
-        y: 1067
-        width: 51
-        height: 82
+        x: 0
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,10 +355,10 @@ TextureImporter:
       name: Cha_Slash_1_1
       rect:
         serializedVersion: 2
-        x: 247
-        y: 1067
-        width: 52
-        height: 82
+        x: 176
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -364,10 +377,10 @@ TextureImporter:
       name: Cha_Slash_1_2
       rect:
         serializedVersion: 2
-        x: 423
-        y: 1067
-        width: 52
-        height: 82
+        x: 352
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +399,10 @@ TextureImporter:
       name: Cha_Slash_1_3
       rect:
         serializedVersion: 2
-        x: 599
-        y: 1067
-        width: 53
-        height: 83
+        x: 528
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,10 +421,10 @@ TextureImporter:
       name: Cha_Slash_1_4
       rect:
         serializedVersion: 2
-        x: 776
-        y: 1067
-        width: 52
-        height: 83
+        x: 704
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -430,10 +443,10 @@ TextureImporter:
       name: Cha_Slash_1_5
       rect:
         serializedVersion: 2
-        x: 950
-        y: 1067
-        width: 54
-        height: 83
+        x: 880
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,10 +465,10 @@ TextureImporter:
       name: Cha_Slash_1_6
       rect:
         serializedVersion: 2
-        x: 1125
-        y: 1067
-        width: 55
-        height: 84
+        x: 1056
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -474,10 +487,10 @@ TextureImporter:
       name: Cha_Slash_1_7
       rect:
         serializedVersion: 2
-        x: 1299
-        y: 1067
-        width: 58
-        height: 84
+        x: 1232
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -496,10 +509,10 @@ TextureImporter:
       name: Cha_Slash_1_8
       rect:
         serializedVersion: 2
-        x: 1474
-        y: 1067
-        width: 60
-        height: 85
+        x: 1408
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,10 +531,10 @@ TextureImporter:
       name: Cha_Slash_1_9
       rect:
         serializedVersion: 2
-        x: 1650
-        y: 1067
-        width: 61
-        height: 85
+        x: 1584
+        y: 1056
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -540,10 +553,10 @@ TextureImporter:
       name: Cha_Slash_1_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 891
-        width: 65
-        height: 85
+        x: 0
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +575,10 @@ TextureImporter:
       name: Cha_Slash_1_11
       rect:
         serializedVersion: 2
-        x: 239
-        y: 891
-        width: 68
-        height: 85
+        x: 176
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -584,10 +597,10 @@ TextureImporter:
       name: Cha_Slash_1_12
       rect:
         serializedVersion: 2
-        x: 415
-        y: 891
-        width: 68
-        height: 86
+        x: 352
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,10 +619,10 @@ TextureImporter:
       name: Cha_Slash_1_13
       rect:
         serializedVersion: 2
-        x: 591
-        y: 891
-        width: 68
-        height: 86
+        x: 528
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -628,10 +641,10 @@ TextureImporter:
       name: Cha_Slash_1_14
       rect:
         serializedVersion: 2
-        x: 767
-        y: 891
-        width: 67
-        height: 86
+        x: 704
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,10 +663,10 @@ TextureImporter:
       name: Cha_Slash_1_15
       rect:
         serializedVersion: 2
-        x: 945
-        y: 891
-        width: 62
-        height: 88
+        x: 880
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -672,10 +685,10 @@ TextureImporter:
       name: Cha_Slash_1_16
       rect:
         serializedVersion: 2
-        x: 1123
-        y: 891
-        width: 56
-        height: 89
+        x: 1056
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -694,10 +707,10 @@ TextureImporter:
       name: Cha_Slash_1_17
       rect:
         serializedVersion: 2
-        x: 1301
-        y: 891
-        width: 51
-        height: 90
+        x: 1232
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -716,10 +729,10 @@ TextureImporter:
       name: Cha_Slash_1_18
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 891
-        width: 49
-        height: 91
+        x: 1408
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -738,10 +751,10 @@ TextureImporter:
       name: Cha_Slash_1_19
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 890
-        width: 49
-        height: 93
+        x: 1584
+        y: 880
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -760,10 +773,10 @@ TextureImporter:
       name: Cha_Slash_1_20
       rect:
         serializedVersion: 2
-        x: 70
-        y: 714
-        width: 50
-        height: 93
+        x: 0
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -782,10 +795,10 @@ TextureImporter:
       name: Cha_Slash_1_21
       rect:
         serializedVersion: 2
-        x: 247
-        y: 715
-        width: 50
-        height: 92
+        x: 176
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -804,10 +817,10 @@ TextureImporter:
       name: Cha_Slash_1_22
       rect:
         serializedVersion: 2
-        x: 424
-        y: 715
-        width: 50
-        height: 93
+        x: 352
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -826,10 +839,10 @@ TextureImporter:
       name: Cha_Slash_1_23
       rect:
         serializedVersion: 2
-        x: 599
-        y: 715
-        width: 52
-        height: 91
+        x: 528
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -848,10 +861,10 @@ TextureImporter:
       name: Cha_Slash_1_24
       rect:
         serializedVersion: 2
-        x: 774
-        y: 715
-        width: 59
-        height: 86
+        x: 704
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -870,10 +883,10 @@ TextureImporter:
       name: Cha_Slash_1_25
       rect:
         serializedVersion: 2
-        x: 949
-        y: 715
-        width: 68
-        height: 81
+        x: 880
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -892,10 +905,10 @@ TextureImporter:
       name: Cha_Slash_1_26
       rect:
         serializedVersion: 2
-        x: 1124
-        y: 714
-        width: 72
-        height: 81
+        x: 1056
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -914,10 +927,10 @@ TextureImporter:
       name: Cha_Slash_1_27
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 714
-        width: 61
-        height: 79
+        x: 1232
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -936,10 +949,10 @@ TextureImporter:
       name: Cha_Slash_1_28
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 714
-        width: 51
-        height: 78
+        x: 1408
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -958,10 +971,10 @@ TextureImporter:
       name: Cha_Slash_1_29
       rect:
         serializedVersion: 2
-        x: 1653
-        y: 714
-        width: 52
-        height: 77
+        x: 1584
+        y: 704
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -980,10 +993,10 @@ TextureImporter:
       name: Cha_Slash_1_30
       rect:
         serializedVersion: 2
-        x: 69
-        y: 538
-        width: 52
-        height: 77
+        x: 0
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1002,10 +1015,10 @@ TextureImporter:
       name: Cha_Slash_1_31
       rect:
         serializedVersion: 2
-        x: 244
-        y: 539
-        width: 53
-        height: 75
+        x: 176
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1024,10 +1037,10 @@ TextureImporter:
       name: Cha_Slash_1_32
       rect:
         serializedVersion: 2
-        x: 420
-        y: 539
-        width: 53
-        height: 74
+        x: 352
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1046,10 +1059,10 @@ TextureImporter:
       name: Cha_Slash_1_33
       rect:
         serializedVersion: 2
-        x: 597
-        y: 539
-        width: 53
-        height: 74
+        x: 528
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1068,10 +1081,10 @@ TextureImporter:
       name: Cha_Slash_1_34
       rect:
         serializedVersion: 2
-        x: 773
-        y: 539
-        width: 54
-        height: 74
+        x: 704
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1090,10 +1103,10 @@ TextureImporter:
       name: Cha_Slash_1_35
       rect:
         serializedVersion: 2
-        x: 949
-        y: 540
-        width: 54
-        height: 74
+        x: 880
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1112,10 +1125,10 @@ TextureImporter:
       name: Cha_Slash_1_36
       rect:
         serializedVersion: 2
-        x: 1125
-        y: 540
-        width: 55
-        height: 75
+        x: 1056
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1134,10 +1147,10 @@ TextureImporter:
       name: Cha_Slash_1_37
       rect:
         serializedVersion: 2
-        x: 1301
-        y: 540
-        width: 55
-        height: 76
+        x: 1232
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1156,10 +1169,10 @@ TextureImporter:
       name: Cha_Slash_1_38
       rect:
         serializedVersion: 2
-        x: 1477
-        y: 540
-        width: 55
-        height: 77
+        x: 1408
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1178,10 +1191,10 @@ TextureImporter:
       name: Cha_Slash_1_39
       rect:
         serializedVersion: 2
-        x: 1653
-        y: 540
-        width: 55
-        height: 78
+        x: 1584
+        y: 528
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1200,10 +1213,10 @@ TextureImporter:
       name: Cha_Slash_1_40
       rect:
         serializedVersion: 2
-        x: 69
-        y: 364
-        width: 55
-        height: 79
+        x: 0
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1222,10 +1235,10 @@ TextureImporter:
       name: Cha_Slash_1_41
       rect:
         serializedVersion: 2
-        x: 245
-        y: 364
-        width: 55
-        height: 80
+        x: 176
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1244,10 +1257,10 @@ TextureImporter:
       name: Cha_Slash_1_42
       rect:
         serializedVersion: 2
-        x: 421
-        y: 364
-        width: 55
-        height: 80
+        x: 352
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1266,10 +1279,10 @@ TextureImporter:
       name: Cha_Slash_1_43
       rect:
         serializedVersion: 2
-        x: 598
-        y: 364
-        width: 53
-        height: 81
+        x: 528
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1288,10 +1301,10 @@ TextureImporter:
       name: Cha_Slash_1_44
       rect:
         serializedVersion: 2
-        x: 774
-        y: 364
-        width: 53
-        height: 81
+        x: 704
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1310,10 +1323,10 @@ TextureImporter:
       name: Cha_Slash_1_45
       rect:
         serializedVersion: 2
-        x: 950
-        y: 363
-        width: 53
-        height: 82
+        x: 880
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1332,10 +1345,10 @@ TextureImporter:
       name: Cha_Slash_1_46
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 363
-        width: 53
-        height: 83
+        x: 1056
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1354,10 +1367,10 @@ TextureImporter:
       name: Cha_Slash_1_47
       rect:
         serializedVersion: 2
-        x: 1303
-        y: 363
-        width: 52
-        height: 83
+        x: 1232
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1376,10 +1389,10 @@ TextureImporter:
       name: Cha_Slash_1_48
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 363
-        width: 52
-        height: 83
+        x: 1408
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1398,10 +1411,10 @@ TextureImporter:
       name: Cha_Slash_1_49
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 363
-        width: 53
-        height: 83
+        x: 1584
+        y: 352
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1420,10 +1433,10 @@ TextureImporter:
       name: Cha_Slash_1_50
       rect:
         serializedVersion: 2
-        x: 70
-        y: 187
-        width: 53
-        height: 83
+        x: 0
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1442,10 +1455,10 @@ TextureImporter:
       name: Cha_Slash_1_51
       rect:
         serializedVersion: 2
-        x: 246
-        y: 187
-        width: 53
-        height: 84
+        x: 176
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1464,10 +1477,10 @@ TextureImporter:
       name: Cha_Slash_1_52
       rect:
         serializedVersion: 2
-        x: 423
-        y: 187
-        width: 52
-        height: 84
+        x: 352
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1486,10 +1499,10 @@ TextureImporter:
       name: Cha_Slash_1_53
       rect:
         serializedVersion: 2
-        x: 599
-        y: 187
-        width: 52
-        height: 84
+        x: 528
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1508,10 +1521,10 @@ TextureImporter:
       name: Cha_Slash_1_54
       rect:
         serializedVersion: 2
-        x: 775
-        y: 187
-        width: 52
-        height: 84
+        x: 704
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1530,10 +1543,10 @@ TextureImporter:
       name: Cha_Slash_1_55
       rect:
         serializedVersion: 2
-        x: 951
-        y: 187
-        width: 52
-        height: 84
+        x: 880
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1552,10 +1565,10 @@ TextureImporter:
       name: Cha_Slash_1_56
       rect:
         serializedVersion: 2
-        x: 1127
-        y: 187
-        width: 52
-        height: 83
+        x: 1056
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1574,10 +1587,10 @@ TextureImporter:
       name: Cha_Slash_1_57
       rect:
         serializedVersion: 2
-        x: 1303
-        y: 187
-        width: 52
-        height: 83
+        x: 1232
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1596,10 +1609,10 @@ TextureImporter:
       name: Cha_Slash_1_58
       rect:
         serializedVersion: 2
-        x: 1479
-        y: 187
-        width: 51
-        height: 83
+        x: 1408
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1618,10 +1631,10 @@ TextureImporter:
       name: Cha_Slash_1_59
       rect:
         serializedVersion: 2
-        x: 1654
-        y: 187
-        width: 52
-        height: 83
+        x: 1584
+        y: 176
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1640,10 +1653,10 @@ TextureImporter:
       name: Cha_Slash_1_60
       rect:
         serializedVersion: 2
-        x: 70
-        y: 11
-        width: 52
-        height: 83
+        x: 0
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1662,10 +1675,10 @@ TextureImporter:
       name: Cha_Slash_1_61
       rect:
         serializedVersion: 2
-        x: 246
-        y: 11
-        width: 52
-        height: 83
+        x: 176
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1684,10 +1697,10 @@ TextureImporter:
       name: Cha_Slash_1_62
       rect:
         serializedVersion: 2
-        x: 422
-        y: 11
-        width: 52
-        height: 82
+        x: 352
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1706,10 +1719,10 @@ TextureImporter:
       name: Cha_Slash_1_63
       rect:
         serializedVersion: 2
-        x: 598
-        y: 11
-        width: 52
-        height: 82
+        x: 528
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1728,10 +1741,10 @@ TextureImporter:
       name: Cha_Slash_1_64
       rect:
         serializedVersion: 2
-        x: 774
-        y: 11
-        width: 52
-        height: 82
+        x: 704
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1750,10 +1763,10 @@ TextureImporter:
       name: Cha_Slash_1_65
       rect:
         serializedVersion: 2
-        x: 950
-        y: 11
-        width: 52
-        height: 82
+        x: 880
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1772,10 +1785,10 @@ TextureImporter:
       name: Cha_Slash_1_66
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 11
-        width: 52
-        height: 82
+        x: 1056
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1794,10 +1807,10 @@ TextureImporter:
       name: Cha_Slash_1_67
       rect:
         serializedVersion: 2
-        x: 1302
-        y: 11
-        width: 52
-        height: 82
+        x: 1232
+        y: 0
+        width: 176
+        height: 176
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1812,33 +1825,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Cha_Slash_1_68
-      rect:
-        serializedVersion: 2
-        x: 1407
-        y: 0
-        width: 353
-        height: 177
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c2c646d72ceee19e0800000000000000
-      internalID: -1648617894476223444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7fbb0b2b57958a546a4e0183b7db583d
     internalID: 0
     vertices: []
     indices: 
@@ -1847,7 +1838,77 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cha_Slash_1_0: 6764294947325976816
+      Cha_Slash_1_1: 7266593859756319806
+      Cha_Slash_1_10: 4008448453101431469
+      Cha_Slash_1_11: -611177772122235935
+      Cha_Slash_1_12: -9172313206246824411
+      Cha_Slash_1_13: 1329950821111244751
+      Cha_Slash_1_14: 4769816637475296627
+      Cha_Slash_1_15: -5915909905716960695
+      Cha_Slash_1_16: -3202490110964585903
+      Cha_Slash_1_17: 705905205748068031
+      Cha_Slash_1_18: 4891925991107546230
+      Cha_Slash_1_19: -2798139309131816045
+      Cha_Slash_1_2: -8485037960429304517
+      Cha_Slash_1_20: 2528301345731962948
+      Cha_Slash_1_21: -4714152804060642354
+      Cha_Slash_1_22: -5015842253014955695
+      Cha_Slash_1_23: 5545395287862435928
+      Cha_Slash_1_24: -8737676688175376615
+      Cha_Slash_1_25: 6577702406869750065
+      Cha_Slash_1_26: 513194263943835846
+      Cha_Slash_1_27: 3912769382107313952
+      Cha_Slash_1_28: 3448288231769785007
+      Cha_Slash_1_29: -6999043948557048704
+      Cha_Slash_1_3: -4984389265011531818
+      Cha_Slash_1_30: -3060458877497785968
+      Cha_Slash_1_31: -6030057021467613559
+      Cha_Slash_1_32: 8288374943752327760
+      Cha_Slash_1_33: -6978279979369801411
+      Cha_Slash_1_34: -3979644982344271297
+      Cha_Slash_1_35: 4692240750802133185
+      Cha_Slash_1_36: -1031259050844032681
+      Cha_Slash_1_37: -4722660726794728827
+      Cha_Slash_1_38: -7033031493338601480
+      Cha_Slash_1_39: -8094897367150600116
+      Cha_Slash_1_4: 1203441265866687756
+      Cha_Slash_1_40: 3694924307243872801
+      Cha_Slash_1_41: 3716836379411154649
+      Cha_Slash_1_42: 4476765266004546070
+      Cha_Slash_1_43: 8642284710264032729
+      Cha_Slash_1_44: -3510773344805155662
+      Cha_Slash_1_45: -3953787132538406177
+      Cha_Slash_1_46: -3784740091352760710
+      Cha_Slash_1_47: 4744814772444641857
+      Cha_Slash_1_48: -5918002122392490063
+      Cha_Slash_1_49: 8688860199130692974
+      Cha_Slash_1_5: 2211885537649494316
+      Cha_Slash_1_50: -5905911690228549074
+      Cha_Slash_1_51: -8068566325618634285
+      Cha_Slash_1_52: -8201991980801143154
+      Cha_Slash_1_53: -642415801269824273
+      Cha_Slash_1_54: 8821306664203421810
+      Cha_Slash_1_55: -6544114917376298673
+      Cha_Slash_1_56: -3688896211509903175
+      Cha_Slash_1_57: 6070963026861604210
+      Cha_Slash_1_58: 4769987386234557846
+      Cha_Slash_1_59: 922535879423796418
+      Cha_Slash_1_6: 6552387804777056893
+      Cha_Slash_1_60: -446421819067091965
+      Cha_Slash_1_61: -6136583952726001415
+      Cha_Slash_1_62: 2961766015462278890
+      Cha_Slash_1_63: -8728381467694933580
+      Cha_Slash_1_64: -5893969036741149943
+      Cha_Slash_1_65: -8966278079606984755
+      Cha_Slash_1_66: -8219173439108153685
+      Cha_Slash_1_67: -3900207651978067342
+      Cha_Slash_1_68: -1648617894476223444
+      Cha_Slash_1_69: 1507200144
+      Cha_Slash_1_7: 8869917469159225724
+      Cha_Slash_1_8: 5239691806512407746
+      Cha_Slash_1_9: 3834016628828553089
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
