@@ -37,6 +37,7 @@ Transform:
   - {fileID: 1192359893495719620}
   - {fileID: 378570856854794739}
   - {fileID: 2797906307672331920}
+  - {fileID: 6375595622372786954}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &600950589047349185
@@ -113,6 +114,7 @@ MonoBehaviour:
   bladeAttack1: {fileID: 4622357755399799859}
   bladeAttack2: {fileID: 7415085054554457464}
   upBladeAttack: {fileID: 3625263098615420123}
+  downBladeAttack: {fileID: 897576286123826056}
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
@@ -200,7 +202,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.0019621328, y: -0.017391741}
+  m_Offset: {x: -0.014257759, y: -0.029687375}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -210,8 +212,201 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.32023925, y: 0.8005825}
+  m_Size: {x: 0.4186043, y: 0.8251738}
   m_EdgeRadius: 0
+--- !u!1 &897576286123826056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6375595622372786954}
+  - component: {fileID: 5001750809582366498}
+  - component: {fileID: 7604856823029982805}
+  - component: {fileID: 847917724248822280}
+  - component: {fileID: 2788648384971068579}
+  m_Layer: 7
+  m_Name: DownBladeAttack
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &6375595622372786954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897576286123826056}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 4.7, y: 4.7, z: 4.7}
+  m_ConstrainProportionsScale: 1
+  m_Children: []
+  m_Father: {fileID: 8857575492210803909}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &5001750809582366498
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897576286123826056}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1163300913, guid: fc1a85702e89e87449d3ec0dbc981d79, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!114 &7604856823029982805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897576286123826056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c5bb34846b60b0479fafd30879b6caf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!95 &847917724248822280
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897576286123826056}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b59e1498ae295e34cb7789aace5d3c28, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!60 &2788648384971068579
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 897576286123826056}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 1}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.04831448, y: -0.25670198}
+      - {x: 0.06539329, y: -0.20438597}
+      - {x: 0.07296764, y: -0.14892483}
+      - {x: 0.074922204, y: -0.07374819}
+      - {x: 0.06348891, y: -0.073748216}
+      - {x: 0.044132378, y: -0.15889114}
+      - {x: 0.010129498, y: -0.23504655}
+      - {x: -0.031879134, y: -0.252894}
+      - {x: -0.07539952, y: -0.22709835}
+      - {x: -0.11068393, y: -0.04340529}
+      - {x: -0.11994244, y: -0.042037405}
+      - {x: -0.13640738, y: -0.099153705}
+      - {x: -0.14911842, y: -0.14119112}
+      - {x: -0.13787545, y: -0.19379325}
+      - {x: -0.12752953, y: -0.24138148}
+      - {x: -0.117270246, y: -0.27112216}
+      - {x: -0.08712147, y: -0.3178361}
+      - {x: -0.067736976, y: -0.33630368}
+      - {x: -0.03863513, y: -0.35006842}
+      - {x: -0.0048537888, y: -0.3337648}
+      - {x: 0.018531397, y: -0.31799626}
+      - {x: 0.03568136, y: -0.29077786}
+  m_UseDelaunayMesh: 0
 --- !u!1 &3625263098615420123
 GameObject:
   m_ObjectHideFlags: 0
@@ -225,7 +420,7 @@ GameObject:
   - component: {fileID: 8229461807745414633}
   - component: {fileID: 6230695321619713529}
   - component: {fileID: 8208374548990300800}
-  m_Layer: 3
+  m_Layer: 7
   m_Name: UpBladeAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -324,7 +519,7 @@ Animator:
   m_GameObject: {fileID: 3625263098615420123}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 9fe6f73949dbf69459267a9770879ccb, type: 2}
+  m_Controller: {fileID: 9100000, guid: 3736bc7b6ec58e344a6e8d469c4dc648, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -382,38 +577,27 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.02, y: 0.21333334}
-      - {x: 0.053333335, y: 0.15333334}
-      - {x: 0.07442474, y: 0.12670776}
+    - - {x: 0.03185693, y: 0.22519025}
+      - {x: 0.07816903, y: 0.13170017}
       - {x: 0.08767581, y: 0.075310506}
-      - {x: 0.102863014, y: 0.03244745}
-      - {x: 0.11318254, y: 0.053319547}
-      - {x: 0.110319555, y: 0.08940635}
-      - {x: 0.11034694, y: 0.118977115}
-      - {x: 0.11229676, y: 0.14094064}
-      - {x: 0.13333334, y: 0.14666668}
-      - {x: 0.11333334, y: 0.12666667}
-      - {x: 0.12666667, y: 0.14666668}
-      - {x: 0.109447435, y: 0.14762099}
-      - {x: 0.110374354, y: 0.15713698}
+      - {x: 0.099118724, y: 0.03931198}
+      - {x: 0.108814195, y: 0.03896641}
+      - {x: 0.103831, y: 0.13389193}
       - {x: 0.09419173, y: 0.20283568}
       - {x: 0.08278081, y: 0.24184015}
-      - {x: 0.056141492, y: 0.27983555}
       - {x: 0.015200891, y: 0.31798166}
       - {x: -0.03410945, y: 0.30366668}
       - {x: -0.08076244, y: 0.2636255}
       - {x: -0.09889489, y: 0.18681747}
       - {x: -0.118977144, y: 0.13341555}
-      - {x: -0.14, y: 0.093333334}
-      - {x: -0.12943375, y: 0.08951593}
       - {x: -0.12370772, y: 0.06384474}
       - {x: -0.11897714, y: 0.017191831}
-      - {x: -0.11333334, y: -0.06666667}
-      - {x: -0.1, y: -0.06666667}
+      - {x: -0.10584476, y: -0.054809727}
+      - {x: -0.09563165, y: -0.049193293}
       - {x: -0.08573976, y: -0.02471694}
-      - {x: -0.06006856, y: 0.119086705}
-      - {x: -0.022972643, y: 0.20391335}
-      - {x: 0.0018401481, y: 0.21911424}
+      - {x: -0.06256475, y: 0.11097405}
+      - {x: -0.02546884, y: 0.19954497}
+      - {x: 0.0037122965, y: 0.22285856}
   m_UseDelaunayMesh: 0
 --- !u!1 &4622357755399799859
 GameObject:
@@ -428,7 +612,7 @@ GameObject:
   - component: {fileID: 39285611011018461}
   - component: {fileID: 4858566052760867396}
   - component: {fileID: 1176180823995562123}
-  m_Layer: 3
+  m_Layer: 7
   m_Name: BladeAttack1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +793,7 @@ Animator:
   m_GameObject: {fileID: 4622357755399799859}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 892e3588ec731bd449c1b83571313cf3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 26f1e3ba709ecd043a2b1fb8b1fba163, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -634,7 +818,7 @@ GameObject:
   - component: {fileID: 3063922207915977481}
   - component: {fileID: 3781677292748163159}
   - component: {fileID: 3063579541181065318}
-  m_Layer: 3
+  m_Layer: 7
   m_Name: BladeAttack2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -733,7 +917,7 @@ Animator:
   m_GameObject: {fileID: 7415085054554457464}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 609ab2a4e89984e4b8fd0220d0ffa4a5, type: 2}
+  m_Controller: {fileID: 9100000, guid: 41ae01883394ef14a838b130e4305aba, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
