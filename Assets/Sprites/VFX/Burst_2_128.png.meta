@@ -1,0 +1,2746 @@
+fileFormatVersion: 2
+guid: ac4ce14d7efd3d94cb152f33ea9d2668
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4350531453188798463
+    second: Burst_2_128_0
+  - first:
+      213: 3469191904313798236
+    second: Burst_2_128_1
+  - first:
+      213: -7939846354963558493
+    second: Burst_2_128_2
+  - first:
+      213: 7788993479826279226
+    second: Burst_2_128_3
+  - first:
+      213: -1160370526633620780
+    second: Burst_2_128_4
+  - first:
+      213: 688279139519509291
+    second: Burst_2_128_5
+  - first:
+      213: 1604444037171578222
+    second: Burst_2_128_6
+  - first:
+      213: 8006359713832962321
+    second: Burst_2_128_7
+  - first:
+      213: 5281242424829641132
+    second: Burst_2_128_8
+  - first:
+      213: 5351436224365346252
+    second: Burst_2_128_9
+  - first:
+      213: 7607998330366018176
+    second: Burst_2_128_10
+  - first:
+      213: 4475599907999743919
+    second: Burst_2_128_11
+  - first:
+      213: -8734250189817216157
+    second: Burst_2_128_12
+  - first:
+      213: -4830846626892468122
+    second: Burst_2_128_13
+  - first:
+      213: -8272057300409150638
+    second: Burst_2_128_14
+  - first:
+      213: 6038735730747117569
+    second: Burst_2_128_15
+  - first:
+      213: 5298315393168733401
+    second: Burst_2_128_16
+  - first:
+      213: 574940246806958159
+    second: Burst_2_128_17
+  - first:
+      213: 1918433195876567419
+    second: Burst_2_128_18
+  - first:
+      213: 1260129848866941845
+    second: Burst_2_128_19
+  - first:
+      213: -5457716843906559286
+    second: Burst_2_128_20
+  - first:
+      213: 4941163677773888739
+    second: Burst_2_128_21
+  - first:
+      213: 4460584919764542987
+    second: Burst_2_128_22
+  - first:
+      213: 8139536845078198027
+    second: Burst_2_128_23
+  - first:
+      213: 8426596019439307780
+    second: Burst_2_128_24
+  - first:
+      213: -4301287768484426997
+    second: Burst_2_128_25
+  - first:
+      213: -1992951024598294756
+    second: Burst_2_128_26
+  - first:
+      213: 7408756662968880340
+    second: Burst_2_128_27
+  - first:
+      213: 3689109187151377072
+    second: Burst_2_128_28
+  - first:
+      213: -3236961386626951560
+    second: Burst_2_128_29
+  - first:
+      213: -7299058137846486177
+    second: Burst_2_128_30
+  - first:
+      213: 6995982775723805835
+    second: Burst_2_128_31
+  - first:
+      213: 5090305768503983133
+    second: Burst_2_128_32
+  - first:
+      213: -1504444643490901908
+    second: Burst_2_128_33
+  - first:
+      213: 4778009781577505479
+    second: Burst_2_128_34
+  - first:
+      213: -4623796845640010379
+    second: Burst_2_128_35
+  - first:
+      213: -1808889457652702076
+    second: Burst_2_128_36
+  - first:
+      213: 4440266201678596089
+    second: Burst_2_128_37
+  - first:
+      213: -7205573059423347715
+    second: Burst_2_128_38
+  - first:
+      213: -2669062939099373411
+    second: Burst_2_128_39
+  - first:
+      213: 4948959538563230486
+    second: Burst_2_128_40
+  - first:
+      213: 4413918771526161756
+    second: Burst_2_128_41
+  - first:
+      213: -536490687746976264
+    second: Burst_2_128_42
+  - first:
+      213: 1236011149936353506
+    second: Burst_2_128_43
+  - first:
+      213: -5570147010667084244
+    second: Burst_2_128_44
+  - first:
+      213: -4136778742133384229
+    second: Burst_2_128_45
+  - first:
+      213: 3277036651484034861
+    second: Burst_2_128_46
+  - first:
+      213: -1229009686191616508
+    second: Burst_2_128_47
+  - first:
+      213: 940943443965214499
+    second: Burst_2_128_48
+  - first:
+      213: -8167573286945501148
+    second: Burst_2_128_49
+  - first:
+      213: 3341211992931446209
+    second: Burst_2_128_50
+  - first:
+      213: -1124955590815263403
+    second: Burst_2_128_51
+  - first:
+      213: -425862829327364453
+    second: Burst_2_128_52
+  - first:
+      213: -3530253304868330111
+    second: Burst_2_128_53
+  - first:
+      213: -2697974994675835137
+    second: Burst_2_128_54
+  - first:
+      213: 7874153855649729423
+    second: Burst_2_128_55
+  - first:
+      213: 6449926658204235892
+    second: Burst_2_128_56
+  - first:
+      213: -4142649407093772061
+    second: Burst_2_128_57
+  - first:
+      213: 8202566040952377700
+    second: Burst_2_128_58
+  - first:
+      213: -7025988916384023119
+    second: Burst_2_128_59
+  - first:
+      213: 737167316139914570
+    second: Burst_2_128_60
+  - first:
+      213: -2372628873743249295
+    second: Burst_2_128_61
+  - first:
+      213: 6386336979789817658
+    second: Burst_2_128_62
+  - first:
+      213: 4338674057248889406
+    second: Burst_2_128_63
+  - first:
+      213: -54831998400917185
+    second: Burst_2_128_64
+  - first:
+      213: 1299667185100621405
+    second: Burst_2_128_65
+  - first:
+      213: -1340071306553534663
+    second: Burst_2_128_66
+  - first:
+      213: -3105522475522462095
+    second: Burst_2_128_67
+  - first:
+      213: -7889088408580960955
+    second: Burst_2_128_68
+  - first:
+      213: -7031193625020169249
+    second: Burst_2_128_69
+  - first:
+      213: -1946421543303606814
+    second: Burst_2_128_70
+  - first:
+      213: -5778932435754077156
+    second: Burst_2_128_71
+  - first:
+      213: 2119085007248889357
+    second: Burst_2_128_72
+  - first:
+      213: 260913372518347832
+    second: Burst_2_128_73
+  - first:
+      213: 5271002607509630155
+    second: Burst_2_128_74
+  - first:
+      213: -3982841026195721390
+    second: Burst_2_128_75
+  - first:
+      213: -3205579916311260582
+    second: Burst_2_128_76
+  - first:
+      213: 9120296415234668088
+    second: Burst_2_128_77
+  - first:
+      213: 2112331428616446961
+    second: Burst_2_128_78
+  - first:
+      213: -6547656471654077059
+    second: Burst_2_128_79
+  - first:
+      213: -6689822858235768887
+    second: Burst_2_128_80
+  - first:
+      213: 6413679331739847790
+    second: Burst_2_128_81
+  - first:
+      213: -1765495947941386677
+    second: Burst_2_128_82
+  - first:
+      213: -6255848337336230207
+    second: Burst_2_128_83
+  - first:
+      213: 8723322067204273569
+    second: Burst_2_128_84
+  - first:
+      213: 5768324783585608425
+    second: Burst_2_128_85
+  - first:
+      213: 2416470671326592606
+    second: Burst_2_128_86
+  - first:
+      213: 9140185930445877821
+    second: Burst_2_128_87
+  - first:
+      213: 609921145847148085
+    second: Burst_2_128_88
+  - first:
+      213: 3440476536239736888
+    second: Burst_2_128_89
+  - first:
+      213: -3055362927909165314
+    second: Burst_2_128_90
+  - first:
+      213: 3911826330656425494
+    second: Burst_2_128_91
+  - first:
+      213: -8615041559013706777
+    second: Burst_2_128_92
+  - first:
+      213: 1470971005036791010
+    second: Burst_2_128_93
+  - first:
+      213: 4470422118001370878
+    second: Burst_2_128_94
+  - first:
+      213: 8990232290649883817
+    second: Burst_2_128_95
+  - first:
+      213: 5454111909155480192
+    second: Burst_2_128_96
+  - first:
+      213: 695317535798382861
+    second: Burst_2_128_97
+  - first:
+      213: 2577296114645334744
+    second: Burst_2_128_98
+  - first:
+      213: -8344045336978610873
+    second: Burst_2_128_99
+  - first:
+      213: 6106592705693232241
+    second: Burst_2_128_100
+  - first:
+      213: 5536154508554115626
+    second: Burst_2_128_101
+  - first:
+      213: 3876956331434494503
+    second: Burst_2_128_102
+  - first:
+      213: -7788880575040997142
+    second: Burst_2_128_103
+  - first:
+      213: -8127206906256790102
+    second: Burst_2_128_104
+  - first:
+      213: -5875968333973265071
+    second: Burst_2_128_105
+  - first:
+      213: -900512365470164190
+    second: Burst_2_128_106
+  - first:
+      213: 2385701476197258591
+    second: Burst_2_128_107
+  - first:
+      213: -1889666262655039116
+    second: Burst_2_128_108
+  - first:
+      213: 2777253277535694901
+    second: Burst_2_128_109
+  - first:
+      213: -8995047714482350182
+    second: Burst_2_128_110
+  - first:
+      213: 3503572958261519254
+    second: Burst_2_128_111
+  - first:
+      213: 6073469251127259470
+    second: Burst_2_128_112
+  - first:
+      213: -5031688966506354385
+    second: Burst_2_128_113
+  - first:
+      213: 1630354768434989475
+    second: Burst_2_128_114
+  - first:
+      213: -3702071185877618167
+    second: Burst_2_128_115
+  - first:
+      213: 7638985992236827567
+    second: Burst_2_128_116
+  - first:
+      213: 8055838033328564925
+    second: Burst_2_128_117
+  - first:
+      213: -7071764711618897499
+    second: Burst_2_128_118
+  - first:
+      213: -7619432812476555697
+    second: Burst_2_128_119
+  - first:
+      213: 8750469832014277733
+    second: Burst_2_128_120
+  - first:
+      213: -47861806493506395
+    second: Burst_2_128_121
+  - first:
+      213: 740409983117045524
+    second: Burst_2_128_122
+  - first:
+      213: 1846197604264328240
+    second: Burst_2_128_123
+  - first:
+      213: -2930263840446032739
+    second: Burst_2_128_124
+  - first:
+      213: -6764012282517660929
+    second: Burst_2_128_125
+  - first:
+      213: 2537005012694589819
+    second: Burst_2_128_126
+  - first:
+      213: 4008681286668684256
+    second: Burst_2_128_127
+  - first:
+      213: -8225677312560219044
+    second: Burst_2_128_128
+  - first:
+      213: 6107339791331422649
+    second: Burst_2_128_129
+  - first:
+      213: 7334527553759704675
+    second: Burst_2_128_130
+  - first:
+      213: -6941495276509362284
+    second: Burst_2_128_131
+  - first:
+      213: 7126652630440601075
+    second: Burst_2_128_132
+  - first:
+      213: -5687820044176958433
+    second: Burst_2_128_133
+  - first:
+      213: 4920639275442766577
+    second: Burst_2_128_134
+  - first:
+      213: 4609322839361372923
+    second: Burst_2_128_135
+  - first:
+      213: -2807192182463996224
+    second: Burst_2_128_136
+  - first:
+      213: -3845151558347038763
+    second: Burst_2_128_137
+  - first:
+      213: 1399705058917036153
+    second: Burst_2_128_138
+  - first:
+      213: 70811785871059011
+    second: Burst_2_128_139
+  - first:
+      213: -1914792713544644295
+    second: Burst_2_128_140
+  - first:
+      213: -5367232724091738834
+    second: Burst_2_128_141
+  - first:
+      213: -7412414488926833720
+    second: Burst_2_128_142
+  - first:
+      213: -1781197401510180139
+    second: Burst_2_128_143
+  - first:
+      213: -4192292435381630036
+    second: Burst_2_128_144
+  - first:
+      213: -1258753733950184098
+    second: Burst_2_128_145
+  - first:
+      213: -8887271554152889086
+    second: Burst_2_128_146
+  - first:
+      213: -7199641621053270099
+    second: Burst_2_128_147
+  - first:
+      213: 5447097855716744401
+    second: Burst_2_128_148
+  - first:
+      213: 1783504095491295079
+    second: Burst_2_128_149
+  - first:
+      213: 1285788167396523208
+    second: Burst_2_128_150
+  - first:
+      213: 318114307141680609
+    second: Burst_2_128_151
+  - first:
+      213: -4716317697733493240
+    second: Burst_2_128_152
+  - first:
+      213: -1441612284341894397
+    second: Burst_2_128_153
+  - first:
+      213: -7148277849430822886
+    second: Burst_2_128_154
+  - first:
+      213: 8551734446826962872
+    second: Burst_2_128_155
+  - first:
+      213: -8231981279782154199
+    second: Burst_2_128_156
+  - first:
+      213: 4459983355275821459
+    second: Burst_2_128_157
+  - first:
+      213: 2050993202076106267
+    second: Burst_2_128_158
+  - first:
+      213: -1172113814500388196
+    second: Burst_2_128_159
+  - first:
+      213: -1297848670854655767
+    second: Burst_2_128_160
+  - first:
+      213: -6290281439738891361
+    second: Burst_2_128_161
+  - first:
+      213: 7597999075558699916
+    second: Burst_2_128_162
+  - first:
+      213: 3777372545816964063
+    second: Burst_2_128_163
+  - first:
+      213: -4068342042052578136
+    second: Burst_2_128_164
+  - first:
+      213: -2883676684519076730
+    second: Burst_2_128_165
+  - first:
+      213: -8145592291178011584
+    second: Burst_2_128_166
+  - first:
+      213: 2854709430840262238
+    second: Burst_2_128_167
+  - first:
+      213: -7364604330131865281
+    second: Burst_2_128_168
+  - first:
+      213: 1131689990663121945
+    second: Burst_2_128_169
+  - first:
+      213: -2627512214611986364
+    second: Burst_2_128_170
+  - first:
+      213: 8343690866250205666
+    second: Burst_2_128_171
+  - first:
+      213: 1571204922115944356
+    second: Burst_2_128_172
+  - first:
+      213: -9024814783134344343
+    second: Burst_2_128_173
+  - first:
+      213: -8162060793324796786
+    second: Burst_2_128_174
+  - first:
+      213: -8935905025132537164
+    second: Burst_2_128_175
+  - first:
+      213: 4798597667118583520
+    second: Burst_2_128_176
+  - first:
+      213: 5182991773379098159
+    second: Burst_2_128_177
+  - first:
+      213: 3473231357786381567
+    second: Burst_2_128_178
+  - first:
+      213: -8844611273935272570
+    second: Burst_2_128_179
+  - first:
+      213: 3413617673163781159
+    second: Burst_2_128_180
+  - first:
+      213: -2049678768049611159
+    second: Burst_2_128_181
+  - first:
+      213: 480292007515106674
+    second: Burst_2_128_182
+  - first:
+      213: -7948992578795146675
+    second: Burst_2_128_183
+  - first:
+      213: -3883937807574791515
+    second: Burst_2_128_184
+  - first:
+      213: -874828883148315823
+    second: Burst_2_128_185
+  - first:
+      213: 1614289985936628343
+    second: Burst_2_128_186
+  - first:
+      213: -8840160557179144590
+    second: Burst_2_128_187
+  - first:
+      213: 1964296539768122064
+    second: Burst_2_128_188
+  - first:
+      213: -1681472168591240656
+    second: Burst_2_128_189
+  - first:
+      213: 3255601642389859399
+    second: Burst_2_128_190
+  - first:
+      213: 5502002629597161543
+    second: Burst_2_128_191
+  - first:
+      213: -8865477809127612471
+    second: Burst_2_128_192
+  - first:
+      213: 4663359860742201763
+    second: Burst_2_128_193
+  - first:
+      213: -4950675208494699694
+    second: Burst_2_128_194
+  - first:
+      213: -5047022514459873440
+    second: Burst_2_128_195
+  - first:
+      213: -7383461941574379366
+    second: Burst_2_128_196
+  - first:
+      213: 6671231470984110877
+    second: Burst_2_128_197
+  - first:
+      213: 4611365868080676874
+    second: Burst_2_128_198
+  - first:
+      213: -7663864455275230339
+    second: Burst_2_128_199
+  - first:
+      213: -6277565492385979647
+    second: Burst_2_128_200
+  - first:
+      213: -4673423690053244191
+    second: Burst_2_128_201
+  - first:
+      213: -6085550829132082737
+    second: Burst_2_128_202
+  - first:
+      213: 7018000511710936685
+    second: Burst_2_128_203
+  - first:
+      213: 1019128636327654348
+    second: Burst_2_128_204
+  - first:
+      213: 1172642848054740848
+    second: Burst_2_128_205
+  - first:
+      213: -5655315003851683991
+    second: Burst_2_128_206
+  - first:
+      213: 4223000904145821422
+    second: Burst_2_128_207
+  - first:
+      213: -4329155754159123821
+    second: Burst_2_128_208
+  - first:
+      213: -613598964941510456
+    second: Burst_2_128_209
+  - first:
+      213: 4434792932275201509
+    second: Burst_2_128_210
+  - first:
+      213: -1283366838557213607
+    second: Burst_2_128_211
+  - first:
+      213: -3493736890106870153
+    second: Burst_2_128_212
+  - first:
+      213: -7195086287804022882
+    second: Burst_2_128_213
+  - first:
+      213: 6597527294615948641
+    second: Burst_2_128_214
+  - first:
+      213: 7843351902923055205
+    second: Burst_2_128_215
+  - first:
+      213: 2638252439393633661
+    second: Burst_2_128_216
+  - first:
+      213: 123422040047769699
+    second: Burst_2_128_217
+  - first:
+      213: 4029442630628110601
+    second: Burst_2_128_218
+  - first:
+      213: -4877833325586595500
+    second: Burst_2_128_219
+  - first:
+      213: 3519840628886628358
+    second: Burst_2_128_220
+  - first:
+      213: -1411450826000637857
+    second: Burst_2_128_221
+  - first:
+      213: -2668182088932792664
+    second: Burst_2_128_222
+  - first:
+      213: -5581358963957301622
+    second: Burst_2_128_223
+  - first:
+      213: 4028092688964739010
+    second: Burst_2_128_224
+  - first:
+      213: -7033218749673974970
+    second: Burst_2_128_225
+  - first:
+      213: 5149164552289695459
+    second: Burst_2_128_226
+  - first:
+      213: 2187014146955775175
+    second: Burst_2_128_227
+  - first:
+      213: 8349190262549612943
+    second: Burst_2_128_228
+  - first:
+      213: -4231982011315590235
+    second: Burst_2_128_229
+  - first:
+      213: 7314919994189425166
+    second: Burst_2_128_230
+  - first:
+      213: 4554442340686176531
+    second: Burst_2_128_231
+  - first:
+      213: -7645546381489312857
+    second: Burst_2_128_232
+  - first:
+      213: 1571278587489540397
+    second: Burst_2_128_233
+  - first:
+      213: 5577181313511873334
+    second: Burst_2_128_234
+  - first:
+      213: -8563223880123209606
+    second: Burst_2_128_235
+  - first:
+      213: -4059653092849656320
+    second: Burst_2_128_236
+  - first:
+      213: 6817283276344314431
+    second: Burst_2_128_237
+  - first:
+      213: -5144084598360843230
+    second: Burst_2_128_238
+  - first:
+      213: -6843480445721727593
+    second: Burst_2_128_239
+  - first:
+      213: -3159844691859731228
+    second: Burst_2_128_240
+  - first:
+      213: 4042291746802057383
+    second: Burst_2_128_241
+  - first:
+      213: 4136391346425018711
+    second: Burst_2_128_242
+  - first:
+      213: -7055820984611071694
+    second: Burst_2_128_243
+  - first:
+      213: -3668640968444290996
+    second: Burst_2_128_244
+  - first:
+      213: 3041626032651252523
+    second: Burst_2_128_245
+  - first:
+      213: -1157744204731468900
+    second: Burst_2_128_246
+  - first:
+      213: -1436325544768577218
+    second: Burst_2_128_247
+  - first:
+      213: -5697133557951295220
+    second: Burst_2_128_248
+  - first:
+      213: -2864585410280917894
+    second: Burst_2_128_249
+  - first:
+      213: -5516399188216755416
+    second: Burst_2_128_250
+  - first:
+      213: -4856156628651306452
+    second: Burst_2_128_251
+  - first:
+      213: 7071556672745681966
+    second: Burst_2_128_252
+  - first:
+      213: -2410730380197644969
+    second: Burst_2_128_253
+  - first:
+      213: 7449375585401560820
+    second: Burst_2_128_254
+  - first:
+      213: 2962556768258527985
+    second: Burst_2_128_255
+  - first:
+      213: -4957098853295722615
+    second: Burst_2_128_256
+  - first:
+      213: -7229351856085201145
+    second: Burst_2_128_257
+  - first:
+      213: -1813837153558662687
+    second: Burst_2_128_258
+  - first:
+      213: 10467293162840280
+    second: Burst_2_128_259
+  - first:
+      213: -3917503705696771819
+    second: Burst_2_128_260
+  - first:
+      213: 4431017029545107595
+    second: Burst_2_128_261
+  - first:
+      213: -744647505516361019
+    second: Burst_2_128_262
+  - first:
+      213: -8669449518856405456
+    second: Burst_2_128_263
+  - first:
+      213: -1331800220583641502
+    second: Burst_2_128_264
+  - first:
+      213: -2930423710526005862
+    second: Burst_2_128_265
+  - first:
+      213: 3588060444529361740
+    second: Burst_2_128_266
+  - first:
+      213: 4591460176730628381
+    second: Burst_2_128_267
+  - first:
+      213: -2267674304529687050
+    second: Burst_2_128_268
+  - first:
+      213: -8186755784986879225
+    second: Burst_2_128_269
+  - first:
+      213: 2979585343037236452
+    second: Burst_2_128_270
+  - first:
+      213: -6054802310708446970
+    second: Burst_2_128_271
+  - first:
+      213: -8130807398121719251
+    second: Burst_2_128_272
+  - first:
+      213: -5976987132988293755
+    second: Burst_2_128_273
+  - first:
+      213: -77371896656821590
+    second: Burst_2_128_274
+  - first:
+      213: 8843690991231736817
+    second: Burst_2_128_275
+  - first:
+      213: -7491995134195390909
+    second: Burst_2_128_276
+  - first:
+      213: -6013797059230785686
+    second: Burst_2_128_277
+  - first:
+      213: 810721152106347808
+    second: Burst_2_128_278
+  - first:
+      213: -4060514017104251042
+    second: Burst_2_128_279
+  - first:
+      213: -5747563222859106926
+    second: Burst_2_128_280
+  - first:
+      213: 7800562939773850965
+    second: Burst_2_128_281
+  - first:
+      213: -717475200734312923
+    second: Burst_2_128_282
+  - first:
+      213: -5099296282310150908
+    second: Burst_2_128_283
+  - first:
+      213: -2642056684082899129
+    second: Burst_2_128_284
+  - first:
+      213: 3269466729276760737
+    second: Burst_2_128_285
+  - first:
+      213: 5456673792781526286
+    second: Burst_2_128_286
+  - first:
+      213: -8816724523993453407
+    second: Burst_2_128_287
+  - first:
+      213: 7691543312085532911
+    second: Burst_2_128_288
+  - first:
+      213: -4064469094118922470
+    second: Burst_2_128_289
+  - first:
+      213: 2894478159121911481
+    second: Burst_2_128_290
+  - first:
+      213: -6212269522240365557
+    second: Burst_2_128_291
+  - first:
+      213: -2666353550711445993
+    second: Burst_2_128_292
+  - first:
+      213: -1767319708822990352
+    second: Burst_2_128_293
+  - first:
+      213: -691965325799733571
+    second: Burst_2_128_294
+  - first:
+      213: -5008873828201693790
+    second: Burst_2_128_295
+  - first:
+      213: 3595961163950376757
+    second: Burst_2_128_296
+  - first:
+      213: -1742642791243578114
+    second: Burst_2_128_297
+  - first:
+      213: -8430075684735301414
+    second: Burst_2_128_298
+  - first:
+      213: 7886361663248561400
+    second: Burst_2_128_299
+  - first:
+      213: 4989025785661432959
+    second: Burst_2_128_300
+  - first:
+      213: -1630434327868430761
+    second: Burst_2_128_301
+  - first:
+      213: 5002197120807903960
+    second: Burst_2_128_302
+  - first:
+      213: -6524895045394975270
+    second: Burst_2_128_303
+  - first:
+      213: 8460801879731666205
+    second: Burst_2_128_304
+  - first:
+      213: 5111594863508520934
+    second: Burst_2_128_305
+  - first:
+      213: 5571067712213037043
+    second: Burst_2_128_306
+  - first:
+      213: -7372078890268220245
+    second: Burst_2_128_307
+  - first:
+      213: 4202902633097826598
+    second: Burst_2_128_308
+  - first:
+      213: 3743257514815894396
+    second: Burst_2_128_309
+  - first:
+      213: 553245243706331388
+    second: Burst_2_128_310
+  - first:
+      213: -390279867636290416
+    second: Burst_2_128_311
+  - first:
+      213: 8000855139905638056
+    second: Burst_2_128_312
+  - first:
+      213: 6333946017510986958
+    second: Burst_2_128_313
+  - first:
+      213: 2925026743774196031
+    second: Burst_2_128_314
+  - first:
+      213: -9222575496483095522
+    second: Burst_2_128_315
+  - first:
+      213: 909804841896678098
+    second: Burst_2_128_316
+  - first:
+      213: 518704211971163040
+    second: Burst_2_128_317
+  - first:
+      213: 2455081076366838250
+    second: Burst_2_128_318
+  - first:
+      213: -2872797607606430281
+    second: Burst_2_128_319
+  - first:
+      213: 6407874209139634846
+    second: Burst_2_128_320
+  - first:
+      213: -6280826862147094039
+    second: Burst_2_128_321
+  - first:
+      213: 8764596118208644355
+    second: Burst_2_128_322
+  - first:
+      213: -4605134180905479546
+    second: Burst_2_128_323
+  - first:
+      213: 5044312756884631163
+    second: Burst_2_128_324
+  - first:
+      213: -8535730019076744635
+    second: Burst_2_128_325
+  - first:
+      213: 1327471468610197325
+    second: Burst_2_128_326
+  - first:
+      213: -1018996837736593525
+    second: Burst_2_128_327
+  - first:
+      213: 8947329540509628220
+    second: Burst_2_128_328
+  - first:
+      213: -6439518371701633306
+    second: Burst_2_128_329
+  - first:
+      213: -4586213374902016044
+    second: Burst_2_128_330
+  - first:
+      213: 1233179733278346649
+    second: Burst_2_128_331
+  - first:
+      213: 3289525417385334985
+    second: Burst_2_128_332
+  - first:
+      213: -6214118853654550765
+    second: Burst_2_128_333
+  - first:
+      213: 2095147748543175834
+    second: Burst_2_128_334
+  - first:
+      213: -1744430962740329589
+    second: Burst_2_128_335
+  - first:
+      213: 7041929033872420844
+    second: Burst_2_128_336
+  - first:
+      213: 8845027493034995847
+    second: Burst_2_128_337
+  - first:
+      213: -95982134281065505
+    second: Burst_2_128_338
+  - first:
+      213: -184457162456745893
+    second: Burst_2_128_339
+  - first:
+      213: 7309050487914471258
+    second: Burst_2_128_340
+  - first:
+      213: 6801930199478204278
+    second: Burst_2_128_341
+  - first:
+      213: 3492597531287978514
+    second: Burst_2_128_342
+  - first:
+      213: 751048204099230954
+    second: Burst_2_128_343
+  - first:
+      213: -8527192446052647264
+    second: Burst_2_128_344
+  - first:
+      213: -5556694746156328256
+    second: Burst_2_128_345
+  - first:
+      213: -6885530228009867740
+    second: Burst_2_128_346
+  - first:
+      213: 5973075989731518042
+    second: Burst_2_128_347
+  - first:
+      213: 6751641705703623226
+    second: Burst_2_128_348
+  - first:
+      213: 6610993760014975240
+    second: Burst_2_128_349
+  - first:
+      213: -4059989121527663778
+    second: Burst_2_128_350
+  - first:
+      213: -5009387738378612083
+    second: Burst_2_128_351
+  - first:
+      213: 7896969693634256305
+    second: Burst_2_128_352
+  - first:
+      213: -5022842018014286227
+    second: Burst_2_128_353
+  - first:
+      213: -908131183798188255
+    second: Burst_2_128_354
+  - first:
+      213: 5080873342036967052
+    second: Burst_2_128_355
+  - first:
+      213: 2266807148166507247
+    second: Burst_2_128_356
+  - first:
+      213: 4257859955916215684
+    second: Burst_2_128_357
+  - first:
+      213: 2849816016690686079
+    second: Burst_2_128_358
+  - first:
+      213: -9085798268681545240
+    second: Burst_2_128_359
+  - first:
+      213: 8878268165852686487
+    second: Burst_2_128_360
+  - first:
+      213: 6111687276808339509
+    second: Burst_2_128_361
+  - first:
+      213: 1313762368850710986
+    second: Burst_2_128_362
+  - first:
+      213: -2639238820398884508
+    second: Burst_2_128_363
+  - first:
+      213: -4666530131725070564
+    second: Burst_2_128_364
+  - first:
+      213: -32211196700295108
+    second: Burst_2_128_365
+  - first:
+      213: 5600309079465905405
+    second: Burst_2_128_366
+  - first:
+      213: -5147497499541581360
+    second: Burst_2_128_367
+  - first:
+      213: 7500316519082451204
+    second: Burst_2_128_368
+  - first:
+      213: -3220564308826069017
+    second: Burst_2_128_369
+  - first:
+      213: -4522077971594545212
+    second: Burst_2_128_370
+  - first:
+      213: 8662100317524460341
+    second: Burst_2_128_371
+  - first:
+      213: -2082814698678641282
+    second: Burst_2_128_372
+  - first:
+      213: 7383235121867671368
+    second: Burst_2_128_373
+  - first:
+      213: -8804027175935443184
+    second: Burst_2_128_374
+  - first:
+      213: 6934438371090325129
+    second: Burst_2_128_375
+  - first:
+      213: -663941139350677354
+    second: Burst_2_128_376
+  - first:
+      213: 6514837221905319583
+    second: Burst_2_128_377
+  - first:
+      213: 3766303878821643037
+    second: Burst_2_128_378
+  - first:
+      213: 1033062351956695392
+    second: Burst_2_128_379
+  - first:
+      213: 8777434094266905111
+    second: Burst_2_128_380
+  - first:
+      213: 4472601840772560157
+    second: Burst_2_128_381
+  - first:
+      213: -2107591787762129315
+    second: Burst_2_128_382
+  - first:
+      213: -4201105793685689883
+    second: Burst_2_128_383
+  - first:
+      213: -5959271912806636206
+    second: Burst_2_128_384
+  - first:
+      213: 7820386657129595084
+    second: Burst_2_128_385
+  - first:
+      213: -6025509778763167768
+    second: Burst_2_128_386
+  - first:
+      213: 3194988110112471951
+    second: Burst_2_128_387
+  - first:
+      213: 8018358605960895303
+    second: Burst_2_128_388
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burst_2_128_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108848481becf93c0800000000000000
+      internalID: -4350531453188798463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee84a08ab052030800000000000000
+      internalID: 3469191904313798236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af8739aecfffc190800000000000000
+      internalID: -7939846354963558493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b01e25d40181c60800000000000000
+      internalID: 7788993479826279226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da8b28672985efe0800000000000000
+      internalID: -1160370526633620780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233f511b324d8900800000000000000
+      internalID: 688279139519509291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e650b91e951244610800000000000000
+      internalID: 1604444037171578222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119030f7dbd4c1f60800000000000000
+      internalID: 8006359713832962321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca181b0110eba4940800000000000000
+      internalID: 5281242424829641132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd347794ee144a40800000000000000
+      internalID: 5351436224365346252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824b3d2c2a059960800000000000000
+      internalID: 7607998330366018176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf781157668c1e30800000000000000
+      internalID: 4475599907999743919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3638e887ab5b9c680800000000000000
+      internalID: -8734250189817216157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6603ea7769265fcb0800000000000000
+      internalID: -4830846626892468122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2539f6766bfb33d80800000000000000
+      internalID: -8272057300409150638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10014ab0726edc350800000000000000
+      internalID: 6038735730747117569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d47ec547c5678940800000000000000
+      internalID: 5298315393168733401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40110abb199af700800000000000000
+      internalID: 574940246806958159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b794a8dc3d4af9a10800000000000000
+      internalID: 1918433195876567419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ba49ccb61ec7110800000000000000
+      internalID: 1260129848866941845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2984a527b4244b0800000000000000
+      internalID: -5457716843906559286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec76ce7f2a829440800000000000000
+      internalID: 4941163677773888739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06a701f95e27ed30800000000000000
+      internalID: 4460584919764542987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07f61fa2a175f070800000000000000
+      internalID: 8139536845078198027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c86640f6841f470800000000000000
+      internalID: 8426596019439307780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bc0c25091ce44c0800000000000000
+      internalID: -4301287768484426997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f511c2a9d9754e0800000000000000
+      internalID: -1992951024598294756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_27
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc81938ee031d660800000000000000
+      internalID: 7408756662968880340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b9cd8249523330800000000000000
+      internalID: 3689109187151377072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876d17ed4c00413d0800000000000000
+      internalID: -3236961386626951560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_30
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b6cb2bb4984ba90800000000000000
+      internalID: -7299058137846486177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc4c9a449b61160800000000000000
+      internalID: 6995982775723805835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c3dc9702664a640800000000000000
+      internalID: 5090305768503983133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c605c7051932f1be0800000000000000
+      internalID: -1504444643490901908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cad444d496ee4240800000000000000
+      internalID: 4778009781577505479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5753e0e4449f4dfb0800000000000000
+      internalID: -4623796845640010379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48469a64f9885e6e0800000000000000
+      internalID: -1808889457652702076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_37
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7c93bb59efe9d30800000000000000
+      internalID: 4440266201678596089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb52fdaa79a00c90800000000000000
+      internalID: -7205573059423347715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9062dfe56595fad0800000000000000
+      internalID: -2669062939099373411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ba7d7ca7c3ea440800000000000000
+      internalID: 4948959538563230486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55de3c9cb3614d30800000000000000
+      internalID: 4413918771526161756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5598bdf800e88f0800000000000000
+      internalID: -536490687746976264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e06a9791372110800000000000000
+      internalID: 1236011149936353506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c260c724eccd2b2b0800000000000000
+      internalID: -5570147010667084244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb90c0d6a53796c0800000000000000
+      internalID: -4136778742133384229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_46
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2734a7d87f5a7d20800000000000000
+      internalID: 3277036651484034861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ec805b33ea1fee0800000000000000
+      internalID: -1229009686191616508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f7743b317ee0d00800000000000000
+      internalID: 940943443965214499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420d4a28e53f6ae80800000000000000
+      internalID: -8167573286945501148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd24f5ea9e5e5e20800000000000000
+      internalID: 3341211992931446209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555dd55b9da5360f0800000000000000
+      internalID: -1124955590815263403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e46e65308071af0800000000000000
+      internalID: -425862829327364453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185ac24c255020fc0800000000000000
+      internalID: -3530253304868330111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_54
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffed57d690ede8ad0800000000000000
+      internalID: -2697974994675835137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b46c0763d964d60800000000000000
+      internalID: 7874153855649729423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478f5995f1eb28950800000000000000
+      internalID: 6449926658204235892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0713d105a5286c0800000000000000
+      internalID: -4142649407093772061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46116adea5e55d170800000000000000
+      internalID: 8202566040952377700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_59
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd391b4e4cae7e90800000000000000
+      internalID: -7025988916384023119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_60
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453c82b4c1fa3a00800000000000000
+      internalID: 737167316139914570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d2bc2c9ab21fd0800000000000000
+      internalID: -2372628873743249295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burst_2_128_62
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37205895a3d0a850800000000000000
+      internalID: 6386336979789817658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67e89cec18477cf4ca6872866ee7fd4d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Burst_2_128_0: -4350531453188798463
+      Burst_2_128_1: 3469191904313798236
+      Burst_2_128_10: 7607998330366018176
+      Burst_2_128_11: 4475599907999743919
+      Burst_2_128_12: -8734250189817216157
+      Burst_2_128_13: -4830846626892468122
+      Burst_2_128_14: -8272057300409150638
+      Burst_2_128_15: 6038735730747117569
+      Burst_2_128_16: 5298315393168733401
+      Burst_2_128_17: 574940246806958159
+      Burst_2_128_18: 1918433195876567419
+      Burst_2_128_19: 1260129848866941845
+      Burst_2_128_2: -7939846354963558493
+      Burst_2_128_20: -5457716843906559286
+      Burst_2_128_21: 4941163677773888739
+      Burst_2_128_22: 4460584919764542987
+      Burst_2_128_23: 8139536845078198027
+      Burst_2_128_24: 8426596019439307780
+      Burst_2_128_25: -4301287768484426997
+      Burst_2_128_26: -1992951024598294756
+      Burst_2_128_27: 7408756662968880340
+      Burst_2_128_28: 3689109187151377072
+      Burst_2_128_29: -3236961386626951560
+      Burst_2_128_3: 7788993479826279226
+      Burst_2_128_30: -7299058137846486177
+      Burst_2_128_31: 6995982775723805835
+      Burst_2_128_32: 5090305768503983133
+      Burst_2_128_33: -1504444643490901908
+      Burst_2_128_34: 4778009781577505479
+      Burst_2_128_35: -4623796845640010379
+      Burst_2_128_36: -1808889457652702076
+      Burst_2_128_37: 4440266201678596089
+      Burst_2_128_38: -7205573059423347715
+      Burst_2_128_39: -2669062939099373411
+      Burst_2_128_4: -1160370526633620780
+      Burst_2_128_40: 4948959538563230486
+      Burst_2_128_41: 4413918771526161756
+      Burst_2_128_42: -536490687746976264
+      Burst_2_128_43: 1236011149936353506
+      Burst_2_128_44: -5570147010667084244
+      Burst_2_128_45: -4136778742133384229
+      Burst_2_128_46: 3277036651484034861
+      Burst_2_128_47: -1229009686191616508
+      Burst_2_128_48: 940943443965214499
+      Burst_2_128_49: -8167573286945501148
+      Burst_2_128_5: 688279139519509291
+      Burst_2_128_50: 3341211992931446209
+      Burst_2_128_51: -1124955590815263403
+      Burst_2_128_52: -425862829327364453
+      Burst_2_128_53: -3530253304868330111
+      Burst_2_128_54: -2697974994675835137
+      Burst_2_128_55: 7874153855649729423
+      Burst_2_128_56: 6449926658204235892
+      Burst_2_128_57: -4142649407093772061
+      Burst_2_128_58: 8202566040952377700
+      Burst_2_128_59: -7025988916384023119
+      Burst_2_128_6: 1604444037171578222
+      Burst_2_128_60: 737167316139914570
+      Burst_2_128_61: -2372628873743249295
+      Burst_2_128_62: 6386336979789817658
+      Burst_2_128_7: 8006359713832962321
+      Burst_2_128_8: 5281242424829641132
+      Burst_2_128_9: 5351436224365346252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
