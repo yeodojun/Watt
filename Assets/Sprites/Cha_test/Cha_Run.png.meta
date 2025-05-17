@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 884a9efce61a47e42b28d5682d8f2320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1979588241892740198
+    second: Cha_Run_0
+  - first:
+      213: -5765974385871439864
+    second: Cha_Run_1
+  - first:
+      213: 3417925474238535361
+    second: Cha_Run_2
+  - first:
+      213: -507761469805310059
+    second: Cha_Run_3
+  - first:
+      213: 160992854893174104
+    second: Cha_Run_4
+  - first:
+      213: 5064580925933052995
+    second: Cha_Run_5
+  - first:
+      213: 3077520392761547938
+    second: Cha_Run_6
+  - first:
+      213: 6549815094168984196
+    second: Cha_Run_7
+  - first:
+      213: -855334895853859546
+    second: Cha_Run_8
+  - first:
+      213: -2769243541310050095
+    second: Cha_Run_9
+  - first:
+      213: -5014634107977842773
+    second: Cha_Run_10
+  - first:
+      213: 2503250801827215378
+    second: Cha_Run_11
+  - first:
+      213: 5397717363223376688
+    second: Cha_Run_12
+  - first:
+      213: 4222315244180232952
+    second: Cha_Run_13
+  - first:
+      213: 8062159446410590415
+    second: Cha_Run_14
+  - first:
+      213: -4137052014332560099
+    second: Cha_Run_15
+  - first:
+      213: -7996658815090903117
+    second: Cha_Run_16
+  - first:
+      213: 2880184426133592658
+    second: Cha_Run_17
+  - first:
+      213: 734626657951941721
+    second: Cha_Run_18
+  - first:
+      213: -5415437778832684597
+    second: Cha_Run_19
+  - first:
+      213: -6398121689528716532
+    second: Cha_Run_20
+  - first:
+      213: 5718709742490318806
+    second: Cha_Run_21
+  - first:
+      213: 4561747875686472705
+    second: Cha_Run_22
+  - first:
+      213: -8261782935593556152
+    second: Cha_Run_23
+  - first:
+      213: -5490314902783125062
+    second: Cha_Run_24
+  - first:
+      213: -7289403243053637061
+    second: Cha_Run_25
+  - first:
+      213: -5978068779314674656
+    second: Cha_Run_26
+  - first:
+      213: -3694882026117112295
+    second: Cha_Run_27
+  - first:
+      213: -6466998557678850036
+    second: Cha_Run_28
+  - first:
+      213: -4886989781349325992
+    second: Cha_Run_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cha_Run_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 363
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8e878409e87b10800000000000000
+      internalID: 1979588241892740198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 364
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808b12278d42bffa0800000000000000
+      internalID: -5765974385871439864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 365
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c61fb02c19ee6f20800000000000000
+      internalID: 3417925474238535361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 366
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fcf9922a114f8f0800000000000000
+      internalID: -507761469805310059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_4
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 367
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d98470626fb3200800000000000000
+      internalID: 160992854893174104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_5
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 364
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3446572d481094640800000000000000
+      internalID: 5064580925933052995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_6
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 363
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac9297ed7c85ba20800000000000000
+      internalID: 3077520392761547938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 362
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a1f60302e95ea50800000000000000
+      internalID: 6549815094168984196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_8
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 362
+        width: 44
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d82a8a17d3124f0800000000000000
+      internalID: -855334895853859546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_9
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 363
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07ba7dbaba199d0800000000000000
+      internalID: -2769243541310050095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3c63f8d0786ab0800000000000000
+      internalID: -5014634107977842773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 189
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2187f9a67555db220800000000000000
+      internalID: 2503250801827215378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 192
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03333e0f75b88ea40800000000000000
+      internalID: 5397717363223376688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa5413085da89a30800000000000000
+      internalID: 4222315244180232952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 190
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8fcd52d4b82ef60800000000000000
+      internalID: 8062159446410590415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 189
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db46cac1d3696c0800000000000000
+      internalID: -4137052014332560099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_16
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 186
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7b2800d29260190800000000000000
+      internalID: -7996658815090903117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_17
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 187
+        width: 48
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a1e47c97878f720800000000000000
+      internalID: 2880184426133592658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_18
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 187
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95402cd9d0be13a00800000000000000
+      internalID: 734626657951941721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_19
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 187
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc98279480088d4b0800000000000000
+      internalID: -5415437778832684597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033be9d83e4537a0800000000000000
+      internalID: -6398121689528716532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d773b63630fc5f40800000000000000
+      internalID: 5718709742490318806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_22
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c5f2516859e4f30800000000000000
+      internalID: 4561747875686472705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ef806130485d80800000000000000
+      internalID: -8261782935593556152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab914925fab7ec3b0800000000000000
+      internalID: -5490314902783125062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_25
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3225311f56d6da90800000000000000
+      internalID: -7289403243053637061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_26
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024881e4e12a90da0800000000000000
+      internalID: -5978068779314674656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_27
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e5052af5429bcc0800000000000000
+      internalID: -3694882026117112295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_28
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00b69e431b9046a0800000000000000
+      internalID: -6466998557678850036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cha_Run_29
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 11
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a5bdafaced2cb0800000000000000
+      internalID: -4886989781349325992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
